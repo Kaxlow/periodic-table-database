@@ -1,1 +1,1 @@
-This repository contains the component files for the Periodic Table Database project.
+This repository contains the component files for the Periodic Table Database project on freeCodeCamp: https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database
